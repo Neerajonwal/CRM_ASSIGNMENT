@@ -27,5 +27,4 @@ To run the CRM system locally, you'll need the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/crm-system.git
-   cd crm-system
+   git clone https://github.com/Neerajonwal/CRM_ASSIGNMENT.git
